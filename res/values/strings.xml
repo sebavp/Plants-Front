@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, Twitter_videoActivity!</string>
+    <string name="app_name">Twitter_video</string>
+    <string name="record_button">Take photo</string>
+    <string name="Identify">send_button</string>
+    <string name="send_button">Identify</string>
+    <string name="remove_button">New Photo</string>
+    <string name="wikiButton">Wikipedia</string>
+
+</resources>
